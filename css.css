@@ -314,7 +314,7 @@ main {
 }
 
 .view-more-btn:hover {
-    background-color: #878097;
+    background-color: #824ffa;
     transform: scale(1.05);
 }
 
@@ -401,7 +401,6 @@ footer ul li img:hover {
         flex-direction: row;
         align-items: center;
         margin-top: 15px;
-        gap: 5px;
     }
 
     .nav_list li {
