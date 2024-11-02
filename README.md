@@ -28,7 +28,7 @@ Welcome to my Portfolio repository! This project showcases my skills in web deve
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [Link](https://www.linkedin.com/in/your-profile)
 - **GitHub**: [@bsujalnaik](https://github.com/bsujalnaik)
 
 Feel free to explore and provide feedback!
